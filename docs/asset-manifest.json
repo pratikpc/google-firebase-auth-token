@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/google-firebase-auth-token/static/css/main.523f09c5.chunk.css",
+    "main.js": "/google-firebase-auth-token/static/js/main.5a4da5ad.chunk.js",
+    "main.js.map": "/google-firebase-auth-token/static/js/main.5a4da5ad.chunk.js.map",
+    "runtime-main.js": "/google-firebase-auth-token/static/js/runtime-main.09249612.js",
+    "runtime-main.js.map": "/google-firebase-auth-token/static/js/runtime-main.09249612.js.map",
+    "static/js/2.12c0d93e.chunk.js": "/google-firebase-auth-token/static/js/2.12c0d93e.chunk.js",
+    "static/js/2.12c0d93e.chunk.js.map": "/google-firebase-auth-token/static/js/2.12c0d93e.chunk.js.map",
+    "index.html": "/google-firebase-auth-token/index.html",
+    "precache-manifest.6999a0bbe251b483bb05648106b66527.js": "/google-firebase-auth-token/precache-manifest.6999a0bbe251b483bb05648106b66527.js",
+    "service-worker.js": "/google-firebase-auth-token/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/google-firebase-auth-token/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.12c0d93e.chunk.js.LICENSE.txt": "/google-firebase-auth-token/static/js/2.12c0d93e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.09249612.js",
+    "static/js/2.12c0d93e.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.5a4da5ad.chunk.js"
+  ]
+}
