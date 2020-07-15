@@ -1,0 +1,48 @@
+{
+  "name": "google-firebase-auth-token-gen",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.1",
+    "@testing-library/react": "^10.4.7",
+    "@testing-library/user-event": "^12.0.11",
+    "@types/jest": "^26.0.4",
+    "@types/node": "^14.0.23",
+    "@types/react": "^16.9.43",
+    "@types/react-dom": "^16.9.8",
+    "firebase": "^7.16.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-firebaseui": "^4.1.0",
+    "react-scripts": "3.4.1",
+    "typescript": "^3.9.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "clean-site": "rimraf docs",
+    "move-site": "mv build docs || move build docs",
+    "deploy": "npm run clean-site && npm run build && npm run move-site"
+  },
+  "homepage": "/google-firebase-auth-token/",
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "rimraf": "^3.0.2"
+  }
+}
